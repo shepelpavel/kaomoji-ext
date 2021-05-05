@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "Kaomoji Clipboard",
+  "version": "1.1",
+  "description": "Copy kaomoji to clipboard",
+
+  "icons": {
+    "512": "icons/512.png"
+  },
+
+  "permissions": [
+    "clipboardWrite"
+  ],
+
+  "browser_action": {
+    "default_icon": "icons/512.png",
+    "default_popup": "popup/index.html"
+  }
+}
