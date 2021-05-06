@@ -21,6 +21,7 @@ body {
     color: #cccccc;
     background-color: #262626;
     width: 400px;
+    font-family: monospace;
 }
 
 textarea {
